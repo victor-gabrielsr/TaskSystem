@@ -1,0 +1,4 @@
+wwwroot\CadastroTarefas.html
+wwwroot\script.js
+C:\Users\Victor\OneDrive\Documentos\CursoRafael\CadastroTarefas\CadastroTarefas\wwwroot\CadastroTarefas.html
+C:\Users\Victor\OneDrive\Documentos\CursoRafael\CadastroTarefas\CadastroTarefas\wwwroot\script.js
